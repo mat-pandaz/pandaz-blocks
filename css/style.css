@@ -1,0 +1,39 @@
+#pageBuilder .row{
+  padding: 15px;
+  background: #fff;
+  clear: both;
+}
+
+#pageBuilder .text-center{
+  text-align: center;
+}
+
+#pageBuilder .add-row{
+  cursor: pointer;
+}
+
+#pageBuilder .column{
+  float:left;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+.col-3{
+  width: calc(100%/4);
+}
+
+.col-4{
+  width: calc(100%/3);
+}
+
+.col-6{
+  width: calc(100%/2);
+}
+
+.col-8{
+  width: calc((100%/3)*2);
+}
+
+.col-12{
+  width: calc(100%/1);
+}
