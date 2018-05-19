@@ -1,0 +1,19 @@
+{
+  "name": "mat-pandaz/pandaz-blocks",
+  "description": "WordPress page builder",
+  "keywords": ["wordpress", "plugin", "pagebuilder"],
+  "homepage": "https://pandaz.com.au",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mat Taylor",
+      "email": "mat.pandaz@gmail.com",
+      "homepage": "http://pandaz.com.au"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.2",
+    "composer/installers": "v1.0.6"
+  }
+}
