@@ -4,6 +4,7 @@
   "keywords": ["wordpress", "plugin", "pagebuilder"],
   "homepage": "https://pandaz.com.au",
   "license": "MIT",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Mat Taylor",
