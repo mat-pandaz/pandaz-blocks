@@ -1,4 +1,4 @@
-var app = angular.module('pageBuilder', ['angular-material']);
+var app = angular.module('pageBuilder', ['ngMaterial', 'ngMessages']);
 app.controller('builder', function($scope) {
     $scope.layout = [];
 

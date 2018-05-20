@@ -2,6 +2,7 @@
   padding: 15px;
   background: #fff;
   clear: both;
+  position: relative;
 }
 
 #pageBuilder .text-center{
@@ -14,8 +15,12 @@
 
 #pageBuilder .column{
   float:left;
-  padding: 15px;
   box-sizing: border-box;
+}
+
+#pageBuilder .column .innerColumn {
+  padding: 15px;
+  height: 100px;
 }
 
 .col-3{
@@ -36,4 +41,12 @@
 
 .col-12{
   width: calc(100%/1);
+}
+
+.delete-row{
+    position: absolute !important;
+    left: 100%;
+    top: 50%;
+    transform: translate(0, 50%);
+
 }
