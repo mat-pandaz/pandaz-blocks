@@ -1,0 +1,26 @@
+{
+  "name": "pandaz-builder",
+  "version": "1.0.0",
+  "description": "Hello!",
+  "main": "js/pageBuilder.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mat-pandaz/pandaz-blocks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mat-pandaz/pandaz-blocks/issues"
+  },
+  "homepage": "https://github.com/mat-pandaz/pandaz-blocks#readme",
+  "dependencies": {
+    "angular": "1.6.7",
+    "angular-animate": "1.6.7",
+    "angular-aria": "1.6.7",
+    "angular-material": "1.1.9",
+    "angular-messages": "1.6.7"
+  }
+}
